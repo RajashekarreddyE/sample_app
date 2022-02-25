@@ -6,9 +6,8 @@ Java Application
 <center>
 <h1>Sample Java Web Application</h1>
   <br>
-  <h2>Welcome to Jenkins world</h2>
-  <h3>Example of GIT Polling</h3>
-  </br>
+  <h2>Example of GIT Auto polling</h2>
+   </br>
 </center>
 </body>
 </html>
